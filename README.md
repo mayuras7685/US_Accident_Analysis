@@ -2,7 +2,7 @@
 
 An exploratory data analysis of US road accidents data using Python's data analysis and visualization libraries.
 
-![Road Accidents](link-to-image.jpg)
+![Road Accidents](./us.png)
 
 ## Table of Contents
 
